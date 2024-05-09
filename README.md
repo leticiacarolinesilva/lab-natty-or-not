@@ -1,51 +1,54 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando o Futuro: Tecnologia ao Seu Alcance
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O futuro da tecnologia promete revolucionar nossa forma de viver, trabalhar e interagir com o mundo ao nosso redor. Desde dispositivos de realidade aumentada que transformam nossa experiência cotidiana até avanços na impressão 3D de alimentos, a tecnologia está se tornando cada vez mais acessível e integrada à nossa vida diária. Com assistentes virtuais prontos para nos ajudar em todas as tarefas e avanços científicos promissores moldando o amanhã, estamos testemunhando uma era de inovação sem precedentes, onde as possibilidades são infinitas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+**Título: "Explorando o Futuro: Tecnologia ao Seu Alcance!"**
 
+**Introdução:**
+[Imagem de fundo vibrante e moderna. Música animada tocando.]
+
+Narrador: Hey pessoal! Preparados para uma viagem ao futuro? Hoje, vamos te mostrar algumas das tecnologias mais incríveis que estão prestes a mudar o mundo!
+
+**Desenvolvimento:**
+Foi pedido para oChatGPT criar um roteiro para um video de um minuto, onde aborda o tema de tecnologias do futuro
+
+**Fim.**
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+**Título: "Explorando o Futuro: Tecnologia ao Seu Alcance!"**
+
+**Introdução:**
+[Imagem de fundo vibrante e moderna. Música animada tocando.]
+
+Narrador: Hey pessoal! Preparados para uma viagem ao futuro? Hoje, vamos te mostrar algumas das tecnologias mais incríveis que estão prestes a mudar o mundo!
+
+**Desenvolvimento:**
+[Cena 1: Uma pessoa usando óculos de realidade aumentada em um parque.]
+Narrador: Imagine ver o mundo de uma forma totalmente nova! Com óculos de realidade aumentada, você pode trazer a magia para o seu dia a dia, desde tours interativos até jogos incríveis!
+
+[Cena 2: Uma família se reunindo em torno de uma mesa futurista.]
+Narrador: E que tal uma refeição do futuro? Com a impressão 3D de alimentos, você pode criar pratos deliciosos e personalizados em um piscar de olhos!
+
+[Cena 3: Um grupo de amigos interagindo com um assistente virtual.]
+Narrador: Ah, e não podemos esquecer dos assistentes virtuais! Eles estão aqui para ajudar em tudo, desde organizar sua agenda até contar piadas para animar o seu dia!
+
+[Cena 4: Um cientista trabalhando em um laboratório futurista.]
+Narrador: E claro, a ciência está sempre avançando! Com novas descobertas e invenções, o futuro está repleto de possibilidades emocionantes!
+
+**Conclusão:**
+[Cena 5: Uma vista panorâmica de uma cidade futurística.]
+Narrador: Então, pessoal, o que vocês acharam do futuro? Animados para ver essas tecnologias se tornarem realidade?
+
+[Imagem do logotipo da empresa de tecnologia.]
+Narrador: Continue acompanhando para mais novidades emocionantes e lembre-se, o futuro está ao seu alcance!
+
+**Fim.**
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
